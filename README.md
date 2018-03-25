@@ -6,6 +6,15 @@ This project template was built with [Create React App](https://github.com/faceb
 
 In the project directory, you can run:
 
+## Instructions
+
+$ git clone https://github.com/beratuslu/game-rating-app.git
+$ cd game-rating-app
+$ npm install
+$ npm run start
+
+In the project directory, you can run:
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
