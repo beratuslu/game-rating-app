@@ -14,8 +14,6 @@ This project template was built with [Create React App](https://github.com/faceb
 
 In the project directory, you can run:
 
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.<br>
