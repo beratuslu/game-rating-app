@@ -4,10 +4,10 @@ This project template was built with [Create React App](https://github.com/faceb
 
 ## Instructions
 
-`$ git clone https://github.com/beratuslu/game-rating-app.git`
-`$ cd game-rating-app`
-`$ npm install`
-`$ npm run start`
+`$ git clone https://github.com/beratuslu/game-rating-app.git`<br>
+`$ cd game-rating-app`<br>
+`$ npm install`<br>
+`$ npm run start`<br>
 
 
 ## Available Scripts
