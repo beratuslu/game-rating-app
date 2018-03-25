@@ -2,16 +2,17 @@
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
 
+## Instructions
+
+`$ git clone https://github.com/beratuslu/game-rating-app.git`
+`$ cd game-rating-app`
+`$ npm install`
+`$ npm run start`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-## Instructions
-
-$ git clone https://github.com/beratuslu/game-rating-app.git
-$ cd game-rating-app
-$ npm install
-$ npm run start
 
 In the project directory, you can run:
 
