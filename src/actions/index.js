@@ -2,7 +2,7 @@ let nextGameId = 10;
 export const addGame = (title, gameType, rating) => ({
   type: "ADD_GAME",
   id: nextGameId++,
-  title,
+  title: title,
   gameType,
   rating,
   color: "green",
